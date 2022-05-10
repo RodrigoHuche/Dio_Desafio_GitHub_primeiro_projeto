@@ -1,0 +1,5 @@
+Anotações basicas:
+git clone
+git status
+git add .
+git commit -m "texto"
